@@ -1,0 +1,22 @@
+{
+  "name": "photographysite",
+  "version": "1.0.0",
+  "description": "mock photography site",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trs1323/mockphoto.git"
+  },
+  "author": "Tanner Shilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trs1323/mockphoto/issues"
+  },
+  "homepage": "https://trs1323.github.io/trsphotography",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
